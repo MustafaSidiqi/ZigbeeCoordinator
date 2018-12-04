@@ -1,0 +1,6 @@
+﻿  Inline build failed - ReadFile failed, win32 error code 109. Doing a normal build...
+  SSH: Connecting...
+  SSH: Error
+EXEC : Connection error : A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.69.52.164:22
+  Build/launch failed: Cannot establish an SSH connection
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(41,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\VisualGDB.exe" /build "C:\Workspace\LinuxProject3\LinuxProject3\LinuxProject3.vcxproj" "/solution:C:\Workspace\LinuxProject3\LinuxProject3.sln" "/config:Debug" "/platform:Win32"" exited with code 1.
